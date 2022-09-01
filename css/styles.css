@@ -750,7 +750,7 @@ footer{
     flex-direction: column;
    }
    .footer-head h2{
-    font-size: 1rem;
+    font-size: .5rem;
    }
    .footer-links{
     flex-direction: column;
